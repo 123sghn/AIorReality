@@ -1,6 +1,6 @@
 # AIorReality: Image Classifier for Recognizing AI-Generated Images Based on SVM
 
-
+## demo of real-time detection
 
 https://github.com/123sghn/AIorReality/assets/119744172/661fe822-389f-4fa2-9f59-792e669472fd
 
